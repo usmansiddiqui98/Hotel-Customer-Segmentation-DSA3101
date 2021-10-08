@@ -1,7 +1,11 @@
 # Hotel-Customer-Segmentation-DSA3101
 
 ## Summary
-Conducted Customer Segmentation and Analysis of their reviews to suggest new features for a new hotel in Brussels Belgium
+We are a group of investors looking to set up our first luxury hotel in Brussels, Belgium. Our definition of luxury hotels comprises all 4* and 5* hotels in the city.  In order to gain sufficient market insight to make informed and strategic business decisions, we will utilise the following methods on a dataset of customer reviews on local hotels in Brussels. 
+
+1.	Customer segmentation using DBSCAN, K-Means and K-Prototype
+2.	Sentiment analysis on reviews in each cluster using various tokenization and LDA techniques 
+
 
 
 ## Instructions to run notebooks
